@@ -7,5 +7,5 @@ Device ESP32 based device for measuring plant biopotentials over time.
 - Environment Sensor: BME280
 - see BOM for details
   
-<img src="hardware/pcb.jpg" width="300">
+<img src="Hardware/PCB1.jpg">
 
