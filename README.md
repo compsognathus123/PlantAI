@@ -6,4 +6,6 @@ Device ESP32 based device for measuring plant biopotentials over time.
 - RTC: DS3231SN#
 - Environment Sensor: BME280
 - see BOM for details
+  
+<img src="hardware/pcb.jpg" width="300">
 
